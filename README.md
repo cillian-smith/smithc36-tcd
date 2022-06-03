@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Cillian Smith @smithc36-tcd
 - 👀 I’m interested in 
 - 👨‍🎓 I’m a 3rd year studying Electronic and Computing Engineering at Trinity College Dublin 
-- 💞️ I’m currently learning C, C++, and Python!
+- 💞️ I’m currently learning C# and Python!
+- 🎓 I am profiecnt in C and C++. 
 - 📫 You can contact me via email @ smithc36@tcd.ie
 - 📱  You can find me on LinkedIn @ https://www.linkedin.com/in/cillian-smith-55a271200/
 
