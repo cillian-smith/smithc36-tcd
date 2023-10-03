@@ -5,6 +5,7 @@
 - 🎓 Working on a thesis in Quantum Optimisation. 
 - 📫 You can contact me via email @ smithc36@tcd.ie
 - 📱  You can find me on LinkedIn @ (https://www.linkedin.com/in/cilliansmith/)
+-  CV is available @ (https://github.com/smithc36-tcd/smithc36-tcd/edit/main/main.pdf)
 
 <!---
 smithc36-tcd/smithc36-tcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
